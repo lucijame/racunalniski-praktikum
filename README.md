@@ -1,3 +1,3 @@
-# racunalniski-praktikum
+# Računalniški-praktikum
 
 besedilo
