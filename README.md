@@ -1,3 +1,4 @@
 # Računalniški-praktikum
-
-besedilo
+ctrl+s:shrani
+ctrl+n:nova datotek
+ctrl+z:undo
