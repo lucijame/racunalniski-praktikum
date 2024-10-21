@@ -1,5 +1,5 @@
 # Računalniški-praktikum
-ctrl+s:shrani
+ctrl+shift+k:zbriši vrstico
 
 ctrl+n:nova datotek
 
