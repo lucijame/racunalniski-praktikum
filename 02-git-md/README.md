@@ -19,6 +19,7 @@
 
 Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 
+
 <!-- začetek bloka z izvorno kodo -->
 <kbd>Ctrl</kbd>
 <!-- konec bloka z izvorno kodo -->
