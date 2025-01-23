@@ -13,6 +13,7 @@
 - ctrl+shift+k:zbriši vrstico
 - ctrl+n:nova datoteka
 - ctrl+z:undo
+- spomni se dela z git
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
